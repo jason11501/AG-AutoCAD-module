@@ -1,4 +1,4 @@
-# Đồ hoạ ứng dụng
+# Đồ hoạ ứng dụng - Week 10
 Gồm những tính năng (features): <br>
 * Vẽ đoạn thẳng
  
